@@ -16,5 +16,7 @@ streamlit run dashboard.py
 https://dicoding-shop-dashboard-2odedngp77gnt6bpxd8dya.streamlit.app/
 
 ## Dashboard Preview
-```
-```
+![alt text](https://github.com/Mr4sR/dashboard-dicoding-shop/blob/main/ss1.png)
+![alt text](https://github.com/Mr4sR/dashboard-dicoding-shop/blob/main/ss2.png)
+![alt text](https://github.com/Mr4sR/dashboard-dicoding-shop/blob/main/ss3.png)
+![alt text](https://github.com/Mr4sR/dashboard-dicoding-shop/blob/main/ss4.png)
