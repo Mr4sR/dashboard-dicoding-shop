@@ -11,3 +11,12 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 streamlit run dashboard.py
 ```
+
+## Streamlit app DEMO
+```
+[streamlit run dashboard.py](https://dicoding-shop-dashboard-2odedngp77gnt6bpxd8dya.streamlit.app/)https://dicoding-shop-dashboard-2odedngp77gnt6bpxd8dya.streamlit.app/
+```
+
+## Dashboard Preview
+```
+```
